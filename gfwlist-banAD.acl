@@ -7230,3 +7230,9 @@
 (^|\.)neulion\.com$
 (^|\.)icntv\.xyz$
 (^|\.)flzbcdn\.xyz$
+
+#pixiv图片下载
+(^|\.)pximg\.net$
+
+#apkpure
+(^|\.)apkpure\.com$
